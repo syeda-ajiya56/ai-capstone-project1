@@ -22,3 +22,10 @@ This repository is created for the AI-Assisted Development Capstone.
 - Use AI to review documentation.
 - Accept suggestions only after verification.
 
+## Development Guidelines
+
+- Follow Conventional Commits.
+
+- Review AI-generated content before committing.
+
+- Keep documentation updated.
