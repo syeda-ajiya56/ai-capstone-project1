@@ -25,7 +25,13 @@ This repository is created for the AI-Assisted Development Capstone.
 ## Development Guidelines
 
 - Follow Conventional Commits.
-
 - Review AI-generated content before committing.
+- Keep documentation updated.
+
+## Repository Standards
+
+- Follow Conventional Commits.
 
 - Keep documentation updated.
+
+- Review AI-generated content before committing.
