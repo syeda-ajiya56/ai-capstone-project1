@@ -181,6 +181,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Syeda** — AI-Assisted Development Capstone
+**Syeda Ajiya** — AI-Assisted Development Capstone
+
+---
+
+### 📝 Project Note
+* **Repository Setup:** Initial project setup and boilerplate commits were made using a shared environment / setup assistance.
+* **Development:** All implementation, feature additions, and ongoing development for this project are done solely by **Syeda Ajiya** (`syeda-ajiya56`).
 
 Repository: [github.com/syeda-ajiya56/ai-capstone-project1](https://github.com/syeda-ajiya56/ai-capstone-project1)
